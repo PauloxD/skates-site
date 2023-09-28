@@ -8,7 +8,7 @@ include_in_header: false
 January 27 2022
 
 # Privacy Policy
-Your data privacy is important to us. We have done our best to outline how your data is collected, stored and deleted, as easily as possible. We encourage you to read the entire document. The Moovin' iOS app maybe referred to as ‘Skates'’, ‘iOS app’ or ‘app’ within this document.
+Your data privacy is important to us. We have done our best to outline how your data is collected, stored and deleted, as easily as possible. We encourage you to read the entire document. The Skates iOS app maybe referred to as ‘Skates'’, ‘iOS app’ or ‘app’ within this document.
 
 #### The Shortened version:
 We do **NOT** collect any data from you. No way to see what you're storing, no analytics of how you use the app. Your data is exactly that...yours.
@@ -54,5 +54,4 @@ Should we make changes that materially alter your privacy rights, we will provid
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+

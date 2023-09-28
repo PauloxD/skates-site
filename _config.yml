@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Search
     description                           : Search for any ISU element to get relevant information
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : fa-magnifying-glass
 
   - title                                 : # Automatic Icon and Metadata
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.

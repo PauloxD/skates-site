@@ -10,7 +10,8 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
-# **Version 2.0** `Beta`
+# **Version 2.0** 
+##### `Beta`
 This is massive milestone for the Skates App. It has been completely redesigned under the hood. With new features and better handling of logic.
 
 #### What's New

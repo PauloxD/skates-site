@@ -10,7 +10,7 @@ By downloading, accessing or using the Skates mobile application (“Skates'”)
 <br>
 
 ## 1. Privacy Policy
-For information about how we collect and use information about users of the Moovin' service, please check out our privacy policy,
+For information about how we collect and use information about users of the Skates service, please check out our privacy policy,
 
 ## 2. Content
 
@@ -29,9 +29,9 @@ However, unless we expressly state otherwise, your rights do not include: (i) pu
 
 ## 4. Hyperlinks and Third Party Content
 
-You may create a hyperlink to the Service. But, you may not use, frame or utilize framing techniques to enclose any of our trademarks, logos or other proprietary information without our express written consent.
+You may create a hyperlink to the Service. But, you may not use, frame or utilize framing techniques to enclose any of our trademarks, copyright, logos or other proprietary information without our express written consent.
 
-The creators of Moovin' makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern.
+The creators of Skates makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern.
 
 If there is any content on the Service from you and others, we don’t review, verify or authenticate it, and it may include inaccuracies or false information. We make no representations, warranties, or guarantees relating to the quality, suitability, truth, accuracy or completeness of any content contained in the Service. You acknowledge sole responsibility for and assume all risk arising from your use of or reliance on any content.
 
